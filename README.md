@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joshidevg
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python, cpp, lua, unity and sql
-- 💞️ I’m looking to collaborate on cpp and python projects
-- 📫 How to reach me : dm me on intsagram @devaaa.re.devaaa or mail me at joshidevg@gmail.com
+- 👀 I’m interested in full stack development, machine learning and game development
+- 🌱 I’m currently learning python, cpp, c#, the MERN stack, react native.
+- 💞️ I’m looking to collaborate on projects in the above mentioned skill sets!
+- 📫 How to reach me : mail me at joshidevg.work@gmail.com
 
 <!---
 joshidevg/joshidevg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
